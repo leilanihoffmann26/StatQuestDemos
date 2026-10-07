@@ -1,2 +1,2 @@
-# PCA
-PCA tutorials just for fun
+# StatQuest Neural Networks and AI tutorials
+
